@@ -30,7 +30,7 @@ Welcome to **Pastry World**, a beautifully designed bakery website featuring a m
 Check out the live demo here: [Live Preview](#)
 
 ## 🔗 Connect with Me
-- 📌 **YouTube**: [ValiCodeLab](#https://www.youtube.com/@ValiCodeLab)
-- 💼 **Portfolio**: [Shivam](#https://portfolio08shivam.netlify.app/)
+- 📌 **YouTube**: [ValiCodeLab](https://www.youtube.com/@ValiCodeLab)
+- 💼 **Portfolio**: [Shivam](https://portfolio08shivam.netlify.app/)
 
 🔔 **Don't forget to ⭐ the repo if you like it!** ⭐
