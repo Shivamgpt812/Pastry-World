@@ -26,9 +26,6 @@ Welcome to **Pastry World**, a beautifully designed bakery website featuring a m
 2. **Open `index.html` in your browser**  
 3. Enjoy the delightful UI! 🎂
 
-## 🎥 Demo
-Check out the live demo here: [Live Preview](#)
-
 ## 🔗 Connect with Me
 - 📌 **YouTube**: [ValiCodeLab](https://www.youtube.com/@ValiCodeLab)
 - 💼 **Portfolio**: [Shivam](https://portfolio08shivam.netlify.app/)
